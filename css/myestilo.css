@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "Franlin Gothic";
+  src: url(../fonts/ITCFranklinGothicStd-Book.otf);
+}
+
+body {
+    font-family: "Franklin Gothic Book";
+    }
+	
+h1 {
+  font-family: "Franklin Gothic Book";
+  color: #FFF;
+   }
+h2 {
+  font-family: "Franklin Gothic Book";
+  color: #005883;
+   }
+h3 {
+  font-family: "Franklin Gothic Book";
+  color: #FFF;
+   }
+    
+hr {
+  height: 10px;
+  width: 100%;
+  background-color: #005883;
+}
+    
+	
+#header {
+	position: absolute;
+	left: 8px;
+	top: 9px;
+	width: 1263px;
+	height: 86px;
+	z-index: 1;
+}
+#header2 {
+	position: absolute;
+	left: 8px;
+	top: 104px;
+	width: 935px;
+	height: 104px;
+	z-index: 2;
+}
+#nav {
+	position: absolute;
+	left: 8px;
+	top: 126px;
+	width: 317px;
+	height: 278px;
+	z-index: 3;
+	font-family: Franklin "Franklin Gothic Book";
+}
+#article1 {
+	position: absolute;
+	left: 339px;
+	top: 126px;
+	width: 605px;
+	height: 2970px;
+	z-index: 4;
+}
+#article2 {
+	position: absolute;
+	left: 952px;
+	top: 232px;
+	width: 315px;
+	height: 2864px;
+	z-index: 5;
+	overflow: scroll;
+}
+#article3 {
+	position: absolute;
+	left: 951px;
+	top: 122px;
+	width: 319px;
+	height: 100px;
+	z-index: 7;
+}
+#article4 {
+	position: absolute;
+	left: 338px;
+	top: 586px;
+	width: 606px;
+	height: 65px;
+	z-index: 8;
+}
+#footer {
+	position: absolute;
+	left: 24px;
+	top: 3109px;
+	width: 1264px;
+	height: 114px;
+	z-index: 6;
+}
+H3 { 
+	font-size : 12px; 
+	font-family : angsana new; 
+	text-align : absolute; 
+	
+} 
